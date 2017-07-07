@@ -1,0 +1,5 @@
+
+#94 inorder traversial:
+recursive is very simple;
+iterative can be done by using stack;
+import one is that insert all left node first. then consider the node with rightnode;
