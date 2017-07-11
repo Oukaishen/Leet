@@ -2,4 +2,9 @@
 #94 inorder traversial:
 recursive is very simple;
 iterative can be done by using stack;
-import one is that insert all left node first. then consider the node with rightnode;
+important point is that insert all left node first. then consider the node with rightnode;
+
+11 July 2017 
+#95, #96 The Unique BST. This is a dynamic programming problem. Important note for #95 is thatneed to consider the start number. Then for #96 is that, we have to figure out the relationship between G[n] and G[n-1].
+
+
