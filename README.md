@@ -11,4 +11,7 @@ Tue July 11, 2017
 Wed July 12, 2017
 #5 Palindromic string problem. #55 Greedy problem accepted. 
 
- 
+Thu July 13, 2017
+#4 is very difficult, redo on July 27. #450 is annoying, redo on July 20.
+
+   
