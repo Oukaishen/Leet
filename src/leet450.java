@@ -67,8 +67,15 @@ public TreeNode deleteNode(TreeNode root, int key) {
 		}
 		else if(root.left != null && root.right != null){
 			// have two children
-			root.val = findmin(root.right).val;
-			root.right = delmin2(root.right);
+			// this can work, just change the value but not change the node
+//			root.val = findmin(root.right).val;
+//			root.right = delmin2(root.right);
+			
+			// another method
+			TreeNode tmp = root;
+			root = findmin(root.right);
+			root.right = delmin(tmp.right);
+			root.left = tmp.left;
 		}
 		else{
 			root = (root.left != null) ? root.left : root.right;
@@ -101,12 +108,13 @@ private TreeNode delmin(TreeNode root){
 			tmp = tmp2;
 			tmp2 = tmp.left;
 		}
-		if(tmp2.right != null){
-			tmp.left = tmp2.right;
-		}
-		else{
-			tmp.left = null;
-		}
+//		if(tmp2.right != null){
+//			tmp.left = tmp2.right;
+//		}
+//		else{
+//			tmp.left = null;
+//		}
+		tmp.left = tmp2.right;
 		return root;
 	}
 }
