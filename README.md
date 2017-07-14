@@ -14,4 +14,7 @@ Wed July 12, 2017
 Thu July 13, 2017
 #4 is very difficult, redo on July 27. #450 is annoying, redo on July 20.
 
+Fri July 14, 2017
+#155 is tricky for the min Stack. #377 is solved on my own, cool~.
+
    
