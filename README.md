@@ -17,4 +17,7 @@ Thu July 13, 2017
 Fri July 14, 2017
 #155 is tricky for the min Stack. #377 is solved on my own, cool~.
 
-   
+Sun July 15, 2017
+#23 use mergeSort and PriorityQueue. #121 Dynamic Programming problem.
+
+
