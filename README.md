@@ -20,4 +20,7 @@ Fri July 14, 2017
 Sun July 15, 2017
 #23 use mergeSort and PriorityQueue. #121 Dynamic Programming problem.
 
+Mon July 17, 17
+#215, quicksort-like problem. #32 can use stack, dp. 
+
 
