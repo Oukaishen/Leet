@@ -24,3 +24,8 @@ Mon July 17, 17
 #215, quicksort-like problem. #32 can use stack, dp. 
 
 
+Thu July 20, 17
+redo the #450. #56 interval probelm. #108 bst probelm recursion 
+
+
+
