@@ -28,4 +28,6 @@ Thu July 20, 17
 redo the #450. #56 interval probelm. #108 bst probelm recursion 
 
 
+Fri July 21, 17
+Difficult #297 redo on July 28 
 
