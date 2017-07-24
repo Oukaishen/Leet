@@ -32,3 +32,7 @@ Difficult #297 redo on July 28
 Sat July 22, 17
 fuck today and do some easy problems for fun. -.- -> ^.^  
 
+Mon July 24, 17
+#315 is quite interesting. Redo on July 31. #416 is an important typical dp backpack probelem. 
+
+ 
