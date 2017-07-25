@@ -35,4 +35,7 @@ fuck today and do some easy problems for fun. -.- -> ^.^
 Mon July 24, 17
 #315 is quite interesting. Redo on July 31. #416 is an important typical dp backpack probelem. 
 
+Tue July 25, 17
+#42 hard problem can be solve by two pointers effectively.
+
  
