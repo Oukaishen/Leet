@@ -41,7 +41,8 @@ Tue July 25, 17
 Wed July 26, 17
 #287 find the entry of the loop in LinkedList. #310 BFS problem, important.
 
- 
+Thu July 27, 17
+#448 Array how to make marker? Redo on Agust 4th. Finished redo the #4 median problem.  
 
 
 
