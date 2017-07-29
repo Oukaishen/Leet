@@ -44,5 +44,7 @@ Wed July 26, 17
 Thu July 27, 17
 #448 Array how to make marker? Redo on Agust 4th. Finished redo the #4 median problem.  
 
+Sat July 29, 17
+#239 Queue problem. Important. Redo on August 12th. 
 
 
