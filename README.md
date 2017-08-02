@@ -47,4 +47,10 @@ Thu July 27, 17
 Sat July 29, 17
 #239 Queue problem. Important. Redo on August 12th. 
 
+Mon July 31, 17
+#337 Very good DFS & tree thinking problem.  
+
+Tue Agu 1, 17
+#543 is similar to the #337. Tree Problem. #102 Tree level travel problem. 
+
 
