@@ -54,7 +54,6 @@ Tue Agu 1, 17
 #543 is similar to the #337. Tree Problem. #102 Tree level travel problem. 
 
 Wed Aug 2, 17
-
 #560 is interesting, HashMap Problem use space to trade for time. #34 Range searching problem.
-
+#72 very typical problem, Redo on 9th Aug.
 
