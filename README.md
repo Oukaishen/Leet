@@ -57,3 +57,9 @@ Wed Aug 2, 17
 #560 is interesting, HashMap Problem use space to trade for time. #34 Range searching problem.
 #72 very typical problem, Redo on 9th Aug.
 
+Thu Aug 3, 17
+#152 continuous maximum product subarray problem.  
+
+Mon Aug 7, 17
+#136 is very simple XOR problem. As the fun start of a day.
+#17 is another backtracking problem, similar to the permutation and also solved by prefix.
