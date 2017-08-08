@@ -63,3 +63,7 @@ Thu Aug 3, 17
 Mon Aug 7, 17
 #136 is very simple XOR problem. As the fun start of a day.
 #17 is another backtracking problem, similar to the permutation and also solved by prefix.
+
+Tue Aug 8,17
+#142 Remind you how to detect a cycle in a linkedlist and how to find the entry point of a linkedlist. Still two pointer solution. 
+#221 is another dp problem. Do not have any idea at the first time. Redo on Aug 15th. 
