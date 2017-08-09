@@ -64,6 +64,10 @@ Mon Aug 7, 17
 #136 is very simple XOR problem. As the fun start of a day.
 #17 is another backtracking problem, similar to the permutation and also solved by prefix.
 
-Tue Aug 8,17
+Tue Aug 8, 17
 #142 Remind you how to detect a cycle in a linkedlist and how to find the entry point of a linkedlist. Still two pointer solution. 
 #221 is another dp problem. Do not have any idea at the first time. Redo on Aug 15th. 
+
+Wed Aug 9, 17
+Finished redo #72. #15 Three sum problem. Redo #15 on Aug 23rd. #169 is good to remind me for the partitioning. 
+
