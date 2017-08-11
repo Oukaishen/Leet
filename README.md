@@ -74,3 +74,6 @@ Finished redo #72. #15 Three sum problem. Redo #15 on Aug 23rd. #169 is good to 
 Thu Aug 10, 17
 #565 is an interesting problem. ArrayNesting problem. 
 #494 is very important DFS problem.  Redo on Aug 17th.
+
+Fri Aug 11, 17
+#547 DFS or UnionFind Problem.
