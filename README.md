@@ -77,3 +77,6 @@ Thu Aug 10, 17
 
 Fri Aug 11, 17
 #547 DFS or UnionFind Problem.
+
+Mon Aug 14, 17
+#621 annoying problem. Redo on Aug 28th. 
