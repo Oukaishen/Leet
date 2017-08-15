@@ -80,3 +80,6 @@ Fri Aug 11, 17
 
 Mon Aug 14, 17
 #621 annoying problem. Redo on Aug 28th. 
+
+Tue Aug 15, 17
+#10 is difficult. Redo on Aug 22nd. #139 is very good dp thinking problem. Redo on Aug 29th. 
