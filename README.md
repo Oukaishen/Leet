@@ -83,3 +83,8 @@ Mon Aug 14, 17
 
 Tue Aug 15, 17
 #10 is difficult. Redo on Aug 22nd. #139 is very good dp thinking problem. Redo on Aug 29th. 
+
+Wed Aug 16, 17
+#39 is very good backtraking problem. can use both prefix and backtrack to do.
+Redo on 30 Aug. Finished Redo #221. 
+
