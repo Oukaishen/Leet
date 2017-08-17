@@ -88,3 +88,5 @@ Wed Aug 16, 17
 #39 is very good backtraking problem. can use both prefix and backtrack to do.
 Redo on 30 Aug. Finished Redo #221. 
 
+Thu Aug 17, 17
+#79 is the silimar backtrack problem and there is one key sentence. Redo this on 31st Aug.
