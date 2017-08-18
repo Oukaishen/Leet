@@ -92,4 +92,4 @@ Thu Aug 17, 17
 #79 is the silimar backtrack problem and there is one key sentence. Redo this on 31st Aug.
 
 Fri Aug 18, 17
-#437 is the very difficult easy problem. DFS and DP. **Redo** on __1stSep__.
+#437 is the very difficult easy problem. DFS and DP. **Redo** on __*1st Sep*__.
