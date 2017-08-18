@@ -90,3 +90,6 @@ Redo on 30 Aug. Finished Redo #221.
 
 Thu Aug 17, 17
 #79 is the silimar backtrack problem and there is one key sentence. Redo this on 31st Aug.
+
+Fri Aug 18, 17
+#437 is the very difficult easy problem. DFS and DP. **Redo** on __1st Sep__.
