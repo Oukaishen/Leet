@@ -93,3 +93,4 @@ Thu Aug 17, 17
 
 Fri Aug 18, 17
 #437 is the very difficult easy problem. DFS and DP. **Redo** on __*1st Sep*__.
+#75 i think is good for practise thinking. 
