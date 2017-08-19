@@ -94,3 +94,6 @@ Thu Aug 17, 17
 Fri Aug 18, 17
 #437 is the very difficult easy problem. DFS and DP. **Redo** on __*1st Sep*__.
 #75 i think is good for practise thinking. 
+
+Sun Aug 19, 17
+#421 is those fucking genius can think out.. i can not. Bit manipulation problem.
