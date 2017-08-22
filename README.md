@@ -101,3 +101,6 @@ Sun Aug 19, 17
 
 Mon Aug 21, 17
 #336 Palindrome problem. 
+
+Tue Aug 22, 17
+#22 back-tracking problem cannot sovel myself. Redo on Sep 4th.
