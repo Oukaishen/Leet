@@ -106,4 +106,4 @@ Tue Aug 22, 17
 #22 back-tracking problem cannot sovel myself. Redo on Sep 4th.
 
 Wed Aug 23, 17
-#583 dp problem. #394 can solved by two stack.
+#583 dp problem. #394 can solved by two stack. #207 is the topological sort problem. 
