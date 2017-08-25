@@ -108,6 +108,8 @@ Tue Aug 22, 17
 Wed Aug 23, 17
 #583 dp problem. #394 can solved by two stack. #207 is the topological sort problem. 
 
-Thu Aug 24, 17
-
+Thu Aug 24, 17 
 #300 dp problem. It is not a mergesort problem. #647 is dp problem.
+
+Fri Aug 25, 17
+#114 Tree Traversal problem. Redo on Aug 9th.
