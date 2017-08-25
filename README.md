@@ -112,4 +112,4 @@ Thu Aug 24, 17
 #300 dp problem. It is not a mergesort problem. #647 is dp problem.
 
 Fri Aug 25, 17
-#114 Tree Traversal problem. Redo on Aug 9th.
+#114 Tree Traversal problem. Redo on Aug 9th. #236 Tree Problem. Redo Aug 9th.
