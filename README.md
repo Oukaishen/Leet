@@ -115,4 +115,4 @@ Fri Aug 25, 17
 #114 Tree Traversal problem. Redo on Aug 9th. #236 Tree Problem. Redo Aug 9th.
 
 Sat Aug 26, 17
-#148 mergesort to sort a linkedlist.
+#148 mergesort to sort a linkedlist. #283 move zero problem. Good Problem.
