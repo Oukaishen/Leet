@@ -116,3 +116,6 @@ Fri Aug 25, 17
 
 Sat Aug 26, 17
 #148 mergesort to sort a linkedlist. #283 move zero problem. Good Problem.
+
+Wed Aug 10, 17
+#146 LRU Cache problem. Remember, hashMap, dLinkedNode, moveTohead, addNode, popTail, removeNode. 
