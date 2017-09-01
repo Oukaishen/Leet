@@ -122,3 +122,6 @@ Wed Aug 30, 17
 
 Thu Aug 31, 17
 #208 Tire - Prefix Tree Problem. Nothing difficult, just dont be afraid.
+
+Fri Sep 1st, 17
+#211 is another Trie Problem. 
