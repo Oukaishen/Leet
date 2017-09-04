@@ -126,5 +126,8 @@ Thu Aug 31, 17
 Fri Sep 1st, 17
 #211 is another Trie Problem. 
 
-Sun Sep 2nd, 17
+Sat Sep 2nd, 17
 #212 is a very good dfs and Trie Problem. Redo Sep 9.
+
+Mon Sep 4th, 17
+#128 is HashMap Problem.
