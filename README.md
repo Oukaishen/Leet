@@ -131,3 +131,6 @@ Sat Sep 2nd, 17
 
 Mon Sep 4th, 17
 #128 is HashMap Problem.
+
+Tue Sep 5th, 17
+#76 is a very important problem. Redo on Sep 14.
