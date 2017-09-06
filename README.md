@@ -134,3 +134,6 @@ Mon Sep 4th, 17
 
 Tue Sep 5th, 17
 #76 is a very important problem. Redo on Sep 14.
+
+Wed Sep 6th, 17
+#3 redo. using the standard counter, two pointer method. 
