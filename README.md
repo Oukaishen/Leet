@@ -137,3 +137,6 @@ Tue Sep 5th, 17
 
 Wed Sep 6th, 17
 #3 redo. using the standard counter, two pointer method. 
+
+Thu Sep 7th, 17
+#572 tree traverse problem. Redo on Sep 15th.
