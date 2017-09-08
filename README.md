@@ -142,3 +142,5 @@ Thu Sep 7th, 17
 #572 tree traverse problem. Redo on Sep 15th. #101 tree traverse problem.
 #209 similary to #76, #3, two pointer problems.
 
+Fri Sep 8th, 17
+#8 atoi problem.
