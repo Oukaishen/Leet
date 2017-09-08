@@ -143,4 +143,4 @@ Thu Sep 7th, 17
 #209 similary to #76, #3, two pointer to solve sub-arry problems.
 
 Fri Sep 8th, 17
-#8 atoi problem.
+#8 atoi problem. #234 Palindrome LinkedList Problem.
