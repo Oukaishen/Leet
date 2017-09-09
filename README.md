@@ -1,4 +1,5 @@
 # Leet
+
 Practise Coding
 
 Mon July 10, 2017 
@@ -144,3 +145,6 @@ Thu Sep 7th, 17
 
 Fri Sep 8th, 17
 #8 atoi problem. #234 Palindrome LinkedList Problem.
+
+Sat Sep 9th, 17
+#50 is pow problem. Notice in java 0 - Integer.min = Integer.min.
