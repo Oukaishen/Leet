@@ -148,3 +148,6 @@ Fri Sep 8th, 17
 
 Sat Sep 9th, 17
 #50 is pow problem. Notice in java 0 - Integer.min = Integer.min.
+
+Sun Sep 10th, 17
+#289 is not a difficult problem. Keep courage and confidence is very important. Dont be afraid, Just do it kaishen.
