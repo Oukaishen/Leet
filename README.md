@@ -151,3 +151,6 @@ Sat Sep 9th, 17
 
 Sun Sep 10th, 17
 #289 is not a difficult problem. Keep courage and confidence is very important. Dont be afraid, Just do it kaishen.
+
+Mon Sep 11th, 17
+#395 divide and conquer. Redo 25th Sep.
