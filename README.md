@@ -154,3 +154,6 @@ Sun Sep 10th, 17
 
 Mon Sep 11th, 17
 #395 divide and conquer. Redo 25th Sep.
+
+Wen Sep 13th, 17
+#44 dp problem. Optional Redo Sep 26th.
