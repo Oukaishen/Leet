@@ -157,3 +157,6 @@ Mon Sep 11th, 17
 
 Wen Sep 13th, 17
 #44 dp problem. Optional Redo Sep 26th.
+
+Fri Sep 15th, 17
+#227 Stack problem, Redo Sep 30th.
