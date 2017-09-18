@@ -160,3 +160,6 @@ Wen Sep 13th, 17
 
 Fri Sep 15th, 17
 #227 Stack problem, Redo Sep 30th.
+
+Mon Sep 18th, 17
+#166 totally cannot do it.
