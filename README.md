@@ -163,3 +163,6 @@ Fri Sep 15th, 17
 
 Mon Sep 18th, 17
 #166 totally cannot do it.
+
+Tue Sep 19th, 17
+#7 reverse integer. Dont be afraid. keep courage
