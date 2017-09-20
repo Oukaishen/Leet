@@ -166,3 +166,6 @@ Mon Sep 18th, 17
 
 Tue Sep 19th, 17
 #7 reverse integer. Dont be afraid. keep courage
+
+Wed Sep 20th, 17
+#84 cannot sovle it myself. Redo this 4th Oct
