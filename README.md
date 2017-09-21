@@ -169,3 +169,6 @@ Tue Sep 19th, 17
 
 Wed Sep 20th, 17
 #84 cannot sovle it myself. Redo this 4th Oct
+
+Thu Sep 21th, 17
+#347 can be solved by hashmap method. Also learn how to sort a map by its value.
