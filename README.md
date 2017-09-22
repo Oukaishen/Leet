@@ -172,3 +172,6 @@ Wed Sep 20th, 17
 
 Thu Sep 21th, 17
 #347 can be solved by hashmap method. Also learn how to sort a map by its value.
+
+Fri Sep 22th, 17
+#91 hashmap problem. Redo on Oct 4 with dp method.
