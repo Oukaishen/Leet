@@ -175,3 +175,6 @@ Thu Sep 21th, 17
 
 Fri Sep 22th, 17
 #91 hashmap problem. Redo on Oct 4 with dp method.
+
+Sun Sep 23th, 17
+#54 Spiral Matrix problem. Dont like this kind of question.
