@@ -178,3 +178,6 @@ Fri Sep 22th, 17
 
 Sun Sep 23th, 17
 #54 Spiral Matrix problem. Dont like this kind of question.
+
+Mon Sep 25th, 17
+#66 plus one question. There is still better solution
