@@ -181,3 +181,6 @@ Sun Sep 23th, 17
 
 Mon Sep 25th, 17
 #66 plus one question. There is still better solution
+
+Wed Sep 27th, 17
+#127 is very difficult BFS problem. Proving that the searching speed of set is much faster.
