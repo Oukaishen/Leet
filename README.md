@@ -188,3 +188,7 @@ Wed Sep 27th, 17
 
 Fri Sep 29th, 17
 #48 rotate the matrix in-place. #202 Digit-problem, happy number.
+
+Sun Oct 8th, 17
+#69 newtownd's method.
+
