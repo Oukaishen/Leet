@@ -192,3 +192,5 @@ Fri Sep 29th, 17
 Sun Oct 8th, 17
 #69 newtownd's method.
 
+Mon Oct 9th, 17
+#344 esay problem.
