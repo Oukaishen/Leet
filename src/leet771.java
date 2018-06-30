@@ -4,8 +4,8 @@ public class leet771 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		String J = "aA", S = "aAAbbbb";
-		System.out.println(numJewelsInStones(J,S));
+		String J = "aA", S = "aAAbbbbaa";
+		System.out.println(numJewelsInStones1(J,S));
 	}
 	
 	public static int numJewelsInStones(String J, String S) {
@@ -27,4 +27,10 @@ public class leet771 {
 		return res;
     }
 	
+	public static int numJewelsInStones1(String J, String S) {
+        // this make me learn more about java reg
+		System.out.println(S.replaceAll("[^" + J + "]", ""));
+	    return S.replaceAll("[^" + J + "]", "").length();
+
+    }
 }
