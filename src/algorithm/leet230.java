@@ -4,7 +4,7 @@ package algorithm;
  * This is quite strange method.
  * I use the in-order thought.
  * But also I need the post-order to get the total number as return.
- * But it pass all the test case.
+ * But it pass all the algorithm.test case.
  * I should avoid the usage of such ambiguous method.
  * 
  * */

@@ -1,5 +1,15 @@
 package algorithm;
 
+class TreeNode{
+	TreeNode left;
+	TreeNode right;
+	int val;
+	public TreeNode(int val){
+		this.val = val;
+	}
+}
+
+
 public class leet617 {
 	public TreeNode mergeTrees(TreeNode t1, TreeNode t2) {
         	if(t1 == null && t2 == null) return null;

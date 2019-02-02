@@ -4,7 +4,7 @@ import java.util.Comparator;
 import java.util.PriorityQueue;
 
 public class leet23 {
-	    // fuck, my method pass 129/130 test. WTF.-.-
+	    // fuck, my method pass 129/130 algorithm.test. WTF.-.-
 	    // fuck, i am so stupid, can break if l1 is null in while
 //	    public ListNode mergeKLists(ListNode[] lists) {
 //	        if(lists.length == 1) return lists[0];

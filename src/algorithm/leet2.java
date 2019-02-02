@@ -1,5 +1,14 @@
 package algorithm;
 
+class ListNode{
+	int val;
+	ListNode next;
+	public ListNode(int val){
+		this.val = val;
+
+	}
+}
+
 public class leet2 {
 	//
 	public static void main(String [] args){
