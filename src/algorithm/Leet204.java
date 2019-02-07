@@ -11,7 +11,7 @@ public class Leet204 {
         }
         int[] helper = new int[n];
         for(int i = 2; i <= Math.floor(Math.sqrt(n)); i++){
-            int k = 2;
+            int k = i;
             while(k*i < n){
                 helper[k*i] = -1;
                 k++;
