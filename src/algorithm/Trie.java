@@ -5,7 +5,7 @@ class TrieNode{
 	private TrieNode [] links;
 	private final int R = 26;
 	private boolean isEnd;
-	
+
 	public TrieNode(){
 		links = new TrieNode[R];
 	}
