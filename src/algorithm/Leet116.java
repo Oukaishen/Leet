@@ -26,7 +26,7 @@ public class Leet116 {
 
     public Node connect(Node root) {
         if(root == null)
-            return;
+            return null;
         /*
         * assume all node are perfect binary tree
         * 做一个层级访问应该是OK的
